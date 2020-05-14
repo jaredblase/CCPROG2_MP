@@ -1,0 +1,60 @@
+999 35
+bucheron
+food
+chicken-based snack
+4 219.500000
+
+212 329
+gasul
+cooking
+LPG
+10 700.000000
+
+222 329
+bigas
+food
+Fragrant Dinorado
+7 68.949997
+
+30303 540
+moonrock
+artifact
+natural rock from Mars
+1 100000.000000
+
+68888 567
+ring
+jewelry
+white gold with gems
+10 8080.799805
+
+70007 567
+earrings
+jewelry
+snap-on drop earrings
+2 2000.000000
+
+80808 567
+necklace
+jewelry
+chain with pendant
+12 8080.799805
+
+81918 567
+bracelet
+jewelry
+chain with 5 charms
+6 8191.799805
+
+22322 861
+rocksalt
+condiment
+natural sea salt
+500 10.000000
+
+71717 861
+venison
+meat
+lean fillet
+20 700.000000
+
